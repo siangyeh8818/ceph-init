@@ -1,0 +1,5 @@
+apiVersion: skaffold/v1beta10
+kind: Config
+build:
+  artifacts:
+    - image: siangyeh8818/ceph-init

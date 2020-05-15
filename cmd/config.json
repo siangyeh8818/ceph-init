@@ -1,0 +1,8 @@
+{
+    "PN_GLOBAL_PORTAL": "http://127.0.0.1:8080",
+    "PN_GLOBAL_JWT_PASSPHRASE": "token",
+    "PN_GLOBAL_REDIS": "redis-events-forwarder.default",
+    "PN_GLOBAL_STORAGE_ENDPOINT": "http://rook-ceph-rgw-my-store.rook-ceph:80",
+    "PN_GLOBAL_STORAGE_SECRET_ID": "3QA8ADFMYNFTPMGD1T3J",
+    "PN_GLOBAL_STORAGE_SECRET_KEY": "DEwM0h3MqcU930FSKDcVIVa5HGkGwTG7fpstMrK8"
+}
